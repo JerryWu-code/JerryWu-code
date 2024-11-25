@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there, it's Jerry Qilong Wu~ 👋
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryWu-code&hide=Jupyter%20Notebook&layout=compact&theme=dark" alt="Top Langs" style="height: 136px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=JerryWu-code&theme=gruvbox&title=-Stars,-Issues,-PullRequest,-Reviews&column=-1" alt="Trophy" style="height: 108px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryWu-code&hide=Jupyter%20Notebook&layout=compact&theme=dark" alt="Top Langs" style="height: 147px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=JerryWu-code&theme=gruvbox&title=-Stars,-Issues,-PullRequest,-Reviews&column=-1" alt="Trophy" style="height: 147px;">
 </div>
 
 ![wave_animation_dark](images/wave_animation_dark.svg)
