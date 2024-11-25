@@ -5,7 +5,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JerryWu-code&theme=gruvbox&title=-Stars,-Issues,-PullRequest,-Reviews&column=-1" alt="Trophy" style="height: 108px;">
 </div>
 
-![wave_animation_dark](/Users/wuqilong/Desktop/JerryWu-code/images/wave_animation_dark.svg)
+![wave_animation_dark](images/wave_animation_dark.svg)
 
 <!--
 **JerryWu-code/JerryWu-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
