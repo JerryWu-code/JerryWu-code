@@ -1,6 +1,5 @@
 ## Hi there, it's Jerry Qilong Wu~ 👋
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JerryWu-code&theme=github_dark)
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JerryWu-code&theme=github_dark" alt="Profile Details" style="width: 83%;">
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryWu-code&hide=Jupyter%20Notebook&layout=compact&theme=dark" alt="Top Langs" style="height: 123px;">
   <img src="https://github-profile-trophy.vercel.app/?username=JerryWu-code&theme=gruvbox&title=-Stars,-Issues,-PullRequest,-Reviews&column=-1" alt="Trophy" style="height: 123px;">
