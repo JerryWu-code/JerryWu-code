@@ -1,4 +1,4 @@
-## Hi there, it's Jerry Qilong Wu~ 👋
+## Hi there, it's Jerry Qilong Wu~ Nice to Meet you! 👋
 <!--
 **JerryWu-code/JerryWu-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
