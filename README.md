@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ![wave_animation_dark](images/wave_animation_dark.svg)
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img alt="2019_mountain_0" src="images/2019_climbing_0.jpg" style="height: 300px; width: auto; flex: 1;">
-    <img alt="2019_mountain_1" src="images/2019_climbing_1.jpg" style="height: 300px; width: auto; flex: 1;">
+    <img alt="2019_mountain_0" src="images/2019_climbing_0.jpg" style="height: 320px; width: auto; flex: 1;">
+    <img alt="2019_mountain_1" src="images/2019_climbing_1.jpg" style="height: 320px; width: auto; flex: 1;">
 </div>
