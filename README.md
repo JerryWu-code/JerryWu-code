@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ![wave_animation_dark](images/wave_animation_dark.svg)
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img alt="2019_mountain" src="images/2019_climbing_0.jpg" style="height: 300px; max-width: 100%;">
+<div style="text-align: center;">
+    <img alt="2019_mountain" src="images/2019_climbing_0.jpg" style="display: inline-block; height: 300px; max-width: 100%;">
 </div>
