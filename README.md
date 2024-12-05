@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🧐 **Over the past one year**, I've made AI paper submissions to **CVPR 2025**, **ICLR 2025**, **NAACL 2025**, **AAAI 2025** and **ISBI 2025** and currently they are under review. And in my spare time, I serve as reviewer for **ACM MM 2024**, **NeurlPS 2024**, **AISTATS 2025**, **ICLR 2025**.
 - 🤔 **I’m always actively looking for CS PhD positions starting from 2025 Fall or 2026 Spring about Multimodal Learning, Computer Vision or Mathematics Theory behind CV or LLMs~~ And I'm also looking for full-time contract Research Assitant start from early 2025~~**
 - 📫 How to reach me: Feel free to drop an email to [qilong_wu@u.nus.edu](qilong_wu@u.nus.edu) or [jerrywu27705751@gmail.com](jerrywu27705751@gmail.com) 📩 ~
-- ⚡ Fun fact: I was a **Mountaineer Athlete** before, and have summitted the First Peak of Mount Siguniang (**5,038m**) and the main peak of Que’er Mountain (**6,168m**) in Ganzi Tibetan Autonomous Prefecture, Sichuan, China **in 2019**.
+- ⚡ Fun fact: I was a **Mountaineer Athlete** before, and have summitted the First Peak of Mount Siguniang (**5,038m**) and the main peak of Que’er Mountain (**6,168m**) in Ganzi Tibetan Autonomous Prefecture, Sichuan, China **in 2019**  [news](http://bbs.lvye.cn/thread-2635578-1-1.html).
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JerryWu-code&theme=github_dark" alt="Profile Details" style="width: 99%;">
 <div style="display: flex; align-items: center;">
