@@ -21,7 +21,8 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JerryWu-code/JerryWu-code/output/contribution-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JerryWu-code/JerryWu-code/output/contribution-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JerryWu-code/JerryWu-code/output/contribution-snake.svg">
-  <img alt="2019_mountain" src="https://raw.githubusercontent.com/JerryWu-code/JerryWu-code/main/2019_climbing_0.jpg">
 </picture>
+
+<img alt="2019_mountain" src="images/2019_climbing_0.jpg" style="width: 99%;">
 
 ![wave_animation_dark](images/wave_animation_dark.svg)
