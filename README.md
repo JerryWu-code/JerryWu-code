@@ -3,7 +3,7 @@
 **JerryWu-code/JerryWu-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m Jerry Qilong Wu, an incoming Research Intern@Shanghai AI LAB (Under OpenGV-LAB) and an upcoming M.Sc.student at National University of Singapore. Previously, I held a Bachelor Degree of Physics.
+- 🔭 I’m Jerry Qilong Wu, an AI Researcher@Shanghai AI LAB (Under OpenGV-LAB) mentored by [Dr. Peng Gao](https://scholar.google.com/citations?hl=en&user=_go6DPsAAAAJ) and a graduate student at National University of Singapore. Previously, I held a Bachelor Degree of Physics.
 - 🏠 I am deeply grateful to [Prof. Weiji](https://jiwei0523.github.io/) and [Prof. Roger Zimmermann](https://scholar.google.com.tw/citations?user=IDREwXEAAAAJ) from [NUS](https://www.nus.edu.sg/) for guiding me into the field of **AI research starting from September 2023**. Also, I am fortunate to have been mentored by [Dr. Zongwei Zhou](https://www.zongweiz.com/) and Bloomberg Distinguished [Prof. Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/) at [CCVL](https://ccvl.jhu.edu/) research group in [JHU](https://www.jhu.edu/). And I am so luckily to spent great time with [Prof. Bharadwaj Veeravalli](https://scholar.google.com/citations?user=IqAJttsAAAAJ&hl=en)@NUS, [Prof. Song Bai](https://songbai.site/)@NUS&ByteDance, [Dr. Haoxin Li](https://lihaoxin05.github.io/)@NTU, [Prof. Sun Chenshuo](https://www.comp.nus.edu.sg/disa/people/csun/)@NUS and [Dr. Shansong Liu](https://scholar.google.com/citations?user=ndVYtaUAAAAJ&hl=zh-CN)@Meituan.
 - 🌱 Research Interests: multimodal understanding and generation, vision-language-action, physic empowered world models.
 <!--
