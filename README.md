@@ -1,5 +1,5 @@
 ## Hi there, it's Jerry Qilong Wu~ Nice to Meet you! 👋
-- Interested in LLMs, Multimodal Generation, as well Theoretical Part. A beginer always happy to learn from great community.
+- A beginner. Reinforcement learning, statistics modeling and enough data would lead us to AGI/AMI.
 <!--
 - learning Statistics Intrinsic Theory about current popular models, like Diffusion (Like nice papers of [Yang Song](https://yang-song.net/)), LLMs (How the reasoning and memorizing ability emerges, like [Attention Sink](https://arxiv.org/pdf/2309.17453) and [CoT](https://arxiv.org/pdf/2201.11903), and how it contributes to other modality, like [LLMs Represent Space & Time](https://arxiv.org/pdf/2310.02207)), and How Different Modality Interactive with each other (Vision, Audio and Lanugage etc., Like [The Platonic Representations](https://arxiv.org/pdf/2405.07987), and how we Integrate Physic Laws into Neural Networks Applications (Like [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](https://arxiv.org/pdf/2409.18964)).
 -->
